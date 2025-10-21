@@ -22,6 +22,7 @@ Route	Komponen	Deskripsi
 /about	About.jsx	Informasi tentang tujuan website dan sumber data.
 ________________________________________
 ## 🧩 Struktur Folder Project
+```
 underwater-world/
 ├─ src/
 │  ├─ components/
@@ -45,6 +46,7 @@ underwater-world/
 │  │  └─ coral.jpg
 ├─ package.json
 └─ tailwind.config.js
+```
 ________________________________________
 ## 🧭 Desain Navigasi
 Navbar (tetap di atas)
