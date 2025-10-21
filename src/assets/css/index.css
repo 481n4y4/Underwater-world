@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap");
+@import "tailwindcss";
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.hero-bg {
+  background: linear-gradient(rgba(13, 59, 102, 0.7), rgba(0, 168, 150, 0.3)),
+    url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800"><rect fill="%230D3B66" width="1200" height="800"/><circle fill="%2300A896" cx="200" cy="200" r="50" opacity="0.3"/><circle fill="%2300A896" cx="800" cy="300" r="80" opacity="0.2"/><circle fill="%2300A896" cx="500" cy="600" r="60" opacity="0.3"/></svg>');
+  background-size: cover;
+  background-position: center;
+}
